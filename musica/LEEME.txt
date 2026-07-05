@@ -1,0 +1,13 @@
+Música incluida en esta carpeta:
+
+  medianoche.mp3  -> Zaperoko - La Noche
+
+Es una grabación comercial con derechos de autor (no es de dominio
+público ni royalty-free). Su uso aquí es para un regalo/juego privado,
+compartido solo con una persona — no para publicar en un sitio web
+público ni para uso comercial.
+
+El juego detecta este archivo automáticamente y lo reproduce en bucle.
+Si esta carpeta no está presente junto al HTML, el juego usa su música
+sintetizada de respaldo (clave + cencerro + bajo) y sigue funcionando
+sin problema.
